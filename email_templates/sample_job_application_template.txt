@@ -1,0 +1,36 @@
+Subject: Job Application - [Position Name]
+
+Dear [Name],
+
+I am writing to express my strong interest in the [job title] position at [company name]. With my [X years] of experience in [relevant field/technology], I am confident that I can make a valuable contribution to your team.
+
+In my current/previous role at [company], I have successfully:
+- Led/developed/implemented [achievement 1]
+- Improved/optimized [achievement 2]
+- Collaborated with [teams/departments] to achieve [achievement 3]
+
+My technical skills include:
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
+
+I am particularly drawn to this opportunity because [reason why you want this job/attracted to company]. I am excited about the possibility of bringing my skills and enthusiasm to your organization.
+
+Please find my resume attached for your detailed review. I would welcome the opportunity to discuss how my experience and skills align with your team's needs.
+
+Thank you for considering my application. I look forward to hearing from you soon.
+
+Best regards,
+[Your Full Name]
+[Your Phone Number]
+[Your Email]
+[Your LinkedIn Profile - optional]
+
+---
+
+USAGE:
+1. Copy this template
+2. Open the Mail Automation Tool
+3. Paste in the "Email Body" field
+4. Replace [bracketed items] with your information
+5. Click "Preview Emails" - names will be auto-added!
